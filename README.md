@@ -7,3 +7,5 @@ The code is written in java.
 CameraX Version used in this app is 1.0.0-beta03. The code may change in the coming new updates since it's still in beta release. <br /><br />
 
 This code uses lambda expressions (Java 8).
+
+![Demo App](https://raw.githubusercontent.com/techuila/Android-CameraX/master/Screen%20Shot%202020-06-02%20at%209.54.51%20PM.png)
